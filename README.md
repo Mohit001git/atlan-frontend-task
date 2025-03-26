@@ -1,4 +1,6 @@
 📌 SQL Query Simulator
+
+
 🟢 Overview
 SQL Query Simulator is a web-based application designed to simulate the execution of SQL queries and display the results in a structured table format. It allows users to select predefined SQL queries, view simulated results, and switch between light and dark mode using a simple UI.
 
@@ -24,6 +26,8 @@ vite - Fast Build Tool for Development and Production
 
 @vitejs/plugin-react-swc - React Plugin for Vite
 
+
+
 ⏱ Page Load Time
 Measured Using: Chrome DevTools (Lighthouse)
 
@@ -39,6 +43,9 @@ Go to the Performance tab.
 Start recording and reload the page.
 
 Analyze metrics like First Contentful Paint (FCP) and Largest Contentful Paint (LCP).
+
+
+
 
 🚀 Optimisations for Performance
 Lazy Loading: Implemented lazy loading using React’s React.lazy() to reduce initial bundle size.
