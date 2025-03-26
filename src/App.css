@@ -1,0 +1,72 @@
+/* General Styles */
+.app {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  color: #b7c7f7;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #b7c7f7;
+}
+
+/* Query Select and Textarea */
+.query-select,
+.query-textarea {
+  width: 90%;
+  margin: 10px auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+.query-textarea {
+  height: 150px;
+  resize: none;
+}
+
+/* Table Styling */
+.table-container {
+  overflow-x: auto;
+  margin-top: 20px;
+}
+
+.query-table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.query-table th,
+.query-table td {
+  border: 1px solid #ccc;
+  padding: 12px;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+.query-table th {
+  background-color: #007bff;
+  color: white;
+}
+
+.query-table tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.query-table tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+  .query-select,
+  .query-textarea {
+    width: 100%;
+  }
+}
