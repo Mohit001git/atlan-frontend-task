@@ -61,3 +61,8 @@ Asset Optimization: Compressed images and optimized CSS.
 Async Data Fetching: Fetched data asynchronously using fetch() to avoid blocking the UI.
 
 Code Splitting: Split the code into smaller chunks using Vite’s build optimization.
+
+
+
+Here are my all required document(like ER DIAGRAM, ARCHITECTURE DIAGRAM AND EXPLANATION PDF) and links:
+https://drive.google.com/drive/u/3/folders/1td8OT5Os21kqSAJLIgIQDNgkBXZdKpt3
