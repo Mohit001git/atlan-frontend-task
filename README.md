@@ -63,6 +63,7 @@ Async Data Fetching: Fetched data asynchronously using fetch() to avoid blocking
 Code Splitting: Split the code into smaller chunks using Vite’s build optimization.
 
 
+Here is the vercel link for deployed app: https://atlan-frontend-task-peach.vercel.app/
 Here is my Video Walktrough Link: https://www.loom.com/share/c578949cdba64ed8b10afbfce89ba49a?sid=9d184119-1978-49ac-be9f-162c73c8960f 
 Here are my all required document(like ER DIAGRAM, ARCHITECTURE DIAGRAM AND EXPLANATION PDF) and links:
 https://drive.google.com/drive/u/3/folders/1td8OT5Os21kqSAJLIgIQDNgkBXZdKpt3
